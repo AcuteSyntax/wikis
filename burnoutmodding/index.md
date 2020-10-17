@@ -8,19 +8,21 @@ Welcome to the Burnout Modding Wiki! This site is still in its early stages ("ea
 
 # File Formats
 
-[BGV/BTV (Burnout Game Vehicle/Traffic Vehicle)](http://127.0.0.1:4000/wikis/burnoutmodding/bgv)
+[BGD (Burnout Game Data)](https://acutesyntax.github.io/wikis/burnoutmodding/bgd)
 
-[RWS (RenderWare Stream)](http://127.0.0.1:4000/wikis/burnoutmodding/rwstream)
+[BGV/BTV (Burnout Game Vehicle/Traffic Vehicle)](https://acutesyntax.github.io/wikis/burnoutmodding/bgv)
 
-[String Array](http://127.0.0.1:4000/wikis/burnoutmodding/stringarray)
+[RWS (RenderWare Stream)](https://acutesyntax.github.io/wikis/burnoutmodding/rwstream)
 
-[TXD (Texture Dictionary)](http://127.0.0.1:4000/wikis/burnoutmodding/texdic)
+[String Array](https://acutesyntax.github.io/wikis/burnoutmodding/stringarray)
 
-[AWD (Wave Dictionary)](http://127.0.0.1:4000/wikis/burnoutmodding/wavedic)
+[TXD (Texture Dictionary)](https://acutesyntax.github.io/wikis/burnoutmodding/texdic)
 
-[VDB.XML/VDB.BIN (Value Database)](http://127.0.0.1:4000/wikis/burnoutmodding/valuedb)
+[AWD (Wave Dictionary)](https://acutesyntax.github.io/burnoutmodding/wavedic)
 
-[Asset Formats (models, textures, sounds, etc.)](http://127.0.0.1:4000/wikis/burnoutmodding/assets)
+[VDB.XML/VDB.BIN (Value Database)](https://acutesyntax.github.io/wikis/burnoutmodding/valuedb)
+
+[Asset Formats (models, textures, sounds, etc.)](https://acutesyntax.github.io/wikis/burnoutmodding/assets)
 
 # Links + Resources
 

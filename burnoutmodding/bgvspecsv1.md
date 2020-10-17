@@ -27,4 +27,3 @@ This format underwent a number of revisions and structural changes during the ti
 LODs, or Levels of Detail, are lower-poly, lower-detail (hence the name) models that games use for objects that are far away from the player, to keep framerates smooth. LOD Databases contain all of the 3D mesh data for any given vehicle. In turn, BGVs contain 4 LODs of minimum (LOD 0), low (LOD 1), medium (LOD 2) and high (LOD 3) quality.
 
 Each LOD in a BGV contains a list of pointers to its submeshes at the very beginning; there are always exactly 12 pointers since it seems the maximum amount of submeshes a BGV can contain is 12, though it's unknown if this rule is enforced by the game or if it can be larger than that.
-
