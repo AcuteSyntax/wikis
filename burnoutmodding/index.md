@@ -18,7 +18,7 @@ Welcome to the Burnout Modding Wiki! This site is still in its early stages ("ea
 
 [TXD (Texture Dictionary)](https://acutesyntax.github.io/wikis/burnoutmodding/texdic)
 
-[AWD (Wave Dictionary)](https://acutesyntax.github.io/burnoutmodding/wavedic)
+[AWD (Wave Dictionary)](https://acutesyntax.github.io/wikis/burnoutmodding/wavedic)
 
 [VDB.XML/VDB.BIN (Value Database)](https://acutesyntax.github.io/wikis/burnoutmodding/valuedb)
 
