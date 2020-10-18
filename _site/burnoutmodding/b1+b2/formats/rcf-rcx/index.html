@@ -9,11 +9,11 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Base site hosting the Burnout Modding Wiki, as well as whichever other wiki-related projects I end up creating in the future." />
 <meta property="og:description" content="Base site hosting the Burnout Modding Wiki, as well as whichever other wiki-related projects I end up creating in the future." />
-<link rel="canonical" href="http://localhost:4000/wikis/404.html" />
-<meta property="og:url" content="http://localhost:4000/wikis/404.html" />
+<link rel="canonical" href="http://localhost:4000/wikis/burnoutmodding/b1+b2/formats/rcf-rcx/" />
+<meta property="og:url" content="http://localhost:4000/wikis/burnoutmodding/b1+b2/formats/rcf-rcx/" />
 <meta property="og:site_name" content="wikis" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/wikis/404.html","headline":"wikis","description":"Base site hosting the Burnout Modding Wiki, as well as whichever other wiki-related projects I end up creating in the future.","@type":"WebPage","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/wikis/burnoutmodding/b1+b2/formats/rcf-rcx/","headline":"wikis","description":"Base site hosting the Burnout Modding Wiki, as well as whichever other wiki-related projects I end up creating in the future.","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/wikis/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/wikis/feed.xml" title="wikis" /></head>
 <body><header class="site-header" role="banner">
@@ -33,26 +33,26 @@
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
+        <article class="post">
 
-<div class="container">
-  <h1>404</h1>
+  <header class="post-header">
+    <h1 class="post-title"></h1>
+  </header>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+  <div class="post-content">
+    <p><strong>RCF/RCX</strong> is a vehicle data container format used exclusively by Burnout 2. It contains the car’s model, LODs, textures and potentially(?) physics info and other metadata. This format can be considered a precursor to the <a href="https://acutesyntax.github.io/wikis/burnoutmodding/takedown-era/formats/bgv">BGV format</a> used from Burnout 3 to Dominator. RCF files are the models used for the main menu and are higher quality than the RCX models, which are the ones used ingame.</p>
+
+<p>All currently known offsets:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>0x00 - version code(?)
+0x08 - file size
+0x38 - unknown pointer(?) always 0x1880, seems to point to something
+0x7C to 0x8C - pointer table (model/lod ptrs?)
+0x88: texture pointer
+</code></pre></div></div>
+
+  </div>
+
+</article>
 
       </div>
     </main><footer class="site-footer h-card">
