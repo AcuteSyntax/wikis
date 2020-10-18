@@ -9,11 +9,11 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Base site hosting the Burnout Modding Wiki, as well as whichever other wiki-related projects I end up creating in the future." />
 <meta property="og:description" content="Base site hosting the Burnout Modding Wiki, as well as whichever other wiki-related projects I end up creating in the future." />
-<link rel="canonical" href="http://localhost:4000/wikis/burnoutmodding/assetdocs/" />
-<meta property="og:url" content="http://localhost:4000/wikis/burnoutmodding/assetdocs/" />
+<link rel="canonical" href="http://localhost:4000/wikis/burnoutmodding/b1+b2/formats/esm.html" />
+<meta property="og:url" content="http://localhost:4000/wikis/burnoutmodding/b1+b2/formats/esm.html" />
 <meta property="og:site_name" content="wikis" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/wikis/burnoutmodding/assetdocs/","headline":"wikis","description":"Base site hosting the Burnout Modding Wiki, as well as whichever other wiki-related projects I end up creating in the future.","@type":"WebPage","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/wikis/burnoutmodding/b1+b2/formats/esm.html","headline":"wikis","description":"Base site hosting the Burnout Modding Wiki, as well as whichever other wiki-related projects I end up creating in the future.","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/wikis/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/wikis/feed.xml" title="wikis" /></head>
 <body><header class="site-header" role="banner">
@@ -40,37 +40,7 @@
   </header>
 
   <div class="post-content">
-    <p>Documentation for the various asset types used by the Burnout games (i.e mesh formats, texture and sound codecs) can be found here.</p>
-
-<h2 id="model-data">Model Data</h2>
-<p>Files containing model data on Burnout PS2 and PSP contain both the actual mesh data as well as the GPU commands required to render the models (these commands use arguments related to the specific vertices being drawn, so they have to be grouped in as data with the rest of the file). PS2 models from the Takedown Era-games seem to store their vertex data as rows of 4-byte floating-point numbers, with 3 floats in each row; it’s possible each of the floats represent the X, Y and Z coordinates of the vertex.</p>
-
-<p>Each “block” of mesh data on the PS2 version begins with the hex sequence <code class="language-plaintext highlighter-rouge">00 00 00 05 03 01 00 01 00 80</code>.</p>
-
-<p>Files that contain model data:</p>
-<ul>
-  <li><a href="https://acutesyntax.github.io/wikis/burnoutmodding/takedown-era/formats/bgv/">.BGV and .BTV</a></li>
-  <li>.DAT (STATIC and STREAMED)</li>
-</ul>
-
-<h2 id="texture-data">Texture Data</h2>
-<p>Burnout PS2 and PSP’s textures are stored as uncompressed bitmaps, which use CLUT4 (16-color) and CLUT8 (256-color) color palettes, with the palette itself being a little ways underneath the texture data.</p>
-
-<p>Burnout PS2’s texture headers are 0x250 bytes in length; PSP texture headers are 0x110. Both games use different texture swizzling methods, and PS2 texture CLUTs seem to use a signed char(?) for the texture’s alpha channel as opposed to an unsigned one.</p>
-
-<p>Burnout Xbox textures seem to use some form of compression (likely DXT).</p>
-
-<p>Files that contain texture data:</p>
-<ul>
-  <li><a href="https://acutesyntax.github.io/wikis/burnoutmodding/takedown-era/formats/bgv/">.BGV and .BTV</a></li>
-  <li><a href="https://acutesyntax.github.io/wikis/burnoutmodding/takedown-era/formats/texdic/">.TXD (Texture Dictionaries)</a></li>
-  <li>.DAT (STATIC, STREAMED and ENVIRO)</li>
-</ul>
-
-<h2 id="sound-data">Sound Data</h2>
-<p>The PS2 versions of Burnout use Sony’s proprietary PS-ADPCM format for its sound data, while the Xbox versions use Microsoft’s XWB format. Burnout PSP also uses PS-ADPCM for its sound effects, however the samples themselves are stored in Electronic Arts’ SDT container format.</p>
-
-<p>In contrast to the console versions, songs and FMV audio tracks are stored as separate files on the PSP versions and are encoded in ATRAC3+ format, another Sony codec.</p>
+    
 
   </div>
 
