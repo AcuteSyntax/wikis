@@ -1,7 +1,5 @@
 ---
-layout: page
-title: About
-permalink: /about/
+title: About This Site
 ---
 
 Other than the Burnout Modding wiki, this site is a bit of a blank slate at the moment, but I may end up using it

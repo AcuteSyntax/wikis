@@ -1,6 +1,5 @@
 ---
-layout: page
-permalink: /burnoutmodding/takedown-era/formats/stringarray/
+title: String Array
 ---
 
 The **String Array** format is used exclusively by the Takedown Era of Burnout games and contains all text strings used by the game's UI elements, including the menus, ingame messages and HUD elements.

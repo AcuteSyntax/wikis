@@ -1,6 +1,5 @@
 ---
-layout: page
-permalink: /burnoutmodding/takedown-era/formats/wavedic/
+title: AWD (Wave Dictionary)
 ---
 
 The **Wave Dictionary** (.AWD) audio container format is used exclusively by the Takedown Era of Burnout games. Unlike similar format RWS, AWD stores its audio samples in a linked list; meaning the header of each sample contains a pointer to the previous sample, the sample after it, and its own data. AWD is capable of storing samples of differing frequencies.

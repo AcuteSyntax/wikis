@@ -1,17 +1,25 @@
 ---
-layout: page
-title: Burnout Modding Wiki - Homepage
-permalink: /burnoutmodding/
+title: Burnout Modding Wiki Homepage
 ---
 
-Welcome to the Burnout Modding Wiki! This site is still in its early stages ("early" = a loose collection of pages at this point), but much more will be added soon due to the format of a proper site being far more flexible and easy to add to than, for instance, only hosting a collection of gist files.
+**Welcome to the Burnout Modding Wiki!**
 
-[File Formats - Burnout 1 and Burnout 2](https://acutesyntax.github.io/wikis/burnoutmodding/b1+b2/formats/)
+Although still in its early stages of development, this site aims to be a one-stop, comprehensive resource for those interested in making mods for the Burnout series of games. Here you can find documentation on the games' various file types and formats as well as tools and other resources.
 
-[File Formats - Takedown-Era (Takedown, Legends, Revenge and Dominator)](https://acutesyntax.github.io/wikis/burnoutmodding/takedown-era/formats)
+#### **File Types and Formats**
 
-[Asset Formats (models, textures, sounds, etc.)](https://acutesyntax.github.io/wikis/burnoutmodding/assetdocs)
+[Burnout 1 and Burnout 2](https://acutesyntax.github.io/wikis/burnoutmodding/b1+b2/formats.html)
 
-[Links + Resources](https://acutesyntax.github.io/wikis/burnoutmodding/links)
+[Takedown-Era (Takedown, Legends, Revenge and Dominator)](https://acutesyntax.github.io/wikis/burnoutmodding/takedown-era/formats.html)
 
-[Patch Database](https://acutesyntax.github.io/wikis/burnoutmodding/patchdb)
+[Asset Formats (models, textures, sounds, etc.)](https://acutesyntax.github.io/wikis/burnoutmodding/assetdocs.html)
+
+#### **Resources**
+
+[Links, Resources and Tools](https://acutesyntax.github.io/wikis/burnoutmodding/links.html)
+
+#### **Miscellaneous**
+
+[Patch Database](https://acutesyntax.github.io/wikis/burnoutmodding/misc/patchdb.html)
+
+["WTF is an Alpha 7?" - Burnout's Beta Builds and You: A Guide](https://acutesyntax.github.io/wikis/burnoutmodding/misc/betaguide.html)

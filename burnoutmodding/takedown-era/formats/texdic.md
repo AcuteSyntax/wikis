@@ -1,6 +1,5 @@
 ---
-layout: page
-permalink: /burnoutmodding/takedown-era/formats/texdic/
+title: TXD (Texture Dictionary)
 ---
 
 The **Texture Dictionary** (.TXD) format is used by all Burnout games up to Paradise and is used to store textures, hence its name. The Takedown Era games mainly use this format for storing frontend textures (HUD and UI elements) and global textures (textures used in common places throughout the game, like car undersides and broken glass). These can be found in the FRONTEND.TXD and GLOBAL.TXD files in the `/DATA` folder of Burnout 3 and Burnout Legends.

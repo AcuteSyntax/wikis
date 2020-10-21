@@ -1,13 +1,22 @@
-email: AcuteSyntax@github.com and syntaxss970@gmail.com
+title: Acute's Wikis
+lang: en
 description: >- 
  Base site hosting the Burnout Modding Wiki, as well
  as whichever other wiki-related projects I end up 
  creating in the future.
+ 
+email: AcuteSyntax@github.com and syntaxss970@gmail.com
 baseurl: "/wikis" 
 url: "https://acutesyntax.github.io"
 github_username:  AcuteSyntax
 
 markdown: kramdown
-theme: minima
+theme: jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true
+
 plugins:
-  - jekyll-feed
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions

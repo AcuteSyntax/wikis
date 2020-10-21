@@ -1,6 +1,5 @@
 ---
-layout: page
-permalink: /burnoutmodding/takedown-era/formats/rwstream/
+title: RWS (RenderWare Stream)
 ---
 
 **RenderWare Stream** (.RWS) is one of the main audio container formats used by the Takedown Era of games (the other being AWD).

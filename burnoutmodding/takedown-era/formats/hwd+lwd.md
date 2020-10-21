@@ -1,6 +1,5 @@
 ---
-layout: page
-permalink: /burnoutmodding/takedown-era/formats/hwdlwd/
+title: HWD and LWD
 ---
 
 **HWD/LWD** files are file formats used by the Takedown Era of Burnout games. LWD files contain pitching settings for a given vehicle's engine sounds; the sounds in question are stored in the HWD file. 

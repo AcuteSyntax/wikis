@@ -1,13 +1,12 @@
 ---
-layout: page
-permalink: /burnoutmodding/takedown-era/formats/bgv/
+title: BGV/BTV (Burnout Game Vehicle/Traffic Vehicle)
 ---
 
 **BGV** (Burnout Game Vehicle, BTV or Burnout Traffic Vehicle for traffic cars) is a file format used by the Takedown Era of Burnout games. This format contains all data related to the game's vehicles, including mesh data, LODs, texture data, pointers to external files (e.g. value database, the car's HWD and LWD files), deformation matrices and physics configuration info. BTV files are identical in every way to BGVs, with the only difference between the two being their file extensions.
 
-All currently known offsets for revision 0x17 can be found [here.](https://docs.google.com/spreadsheets/d/1t0ZpOjCC9_2RJfcgQ8NLD8oJZfoZmpxxHEnNF5AN2Wo/edit?usp=sharing)
+All currently known offsets for revision 0x17 can be found [**here.**](https://docs.google.com/spreadsheets/d/1t0ZpOjCC9_2RJfcgQ8NLD8oJZfoZmpxxHEnNF5AN2Wo/edit?usp=sharing)
 
-## Revision Differences
+### **Revision Differences**
 This format underwent a number of revisions and structural changes during the time it was in use. Because of this, BGVs use a single number at the start of the file to indicate its version:
 
 ```
@@ -26,7 +25,7 @@ This format underwent a number of revisions and structural changes during the ti
 
 * Revision 0x1D and up stores deformation matrices in a different order to previous revisions.
 
-## LOD Databases
+### **LOD Databases**
 LODs, or Levels of Detail, are lower-poly, lower-detail (hence the name) models that games use for objects that are far away from the player, to keep framerates smooth. LOD Databases contain all of the 3D mesh data for any given vehicle. In turn, BGVs contain 4 LODs of minimum (LOD 0), low (LOD 1), medium (LOD 2) and high (LOD 3) quality.
 
 Each LOD in a BGV contains a list of pointers to its submeshes at the very beginning; there are always exactly 12 pointers since it seems the maximum amount of submeshes a BGV can contain is 12, though it's unknown if this rule is enforced by the game or if it can be larger than that.
