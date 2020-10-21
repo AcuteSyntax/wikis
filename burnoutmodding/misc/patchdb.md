@@ -24,7 +24,7 @@ If you have homemade patches of your own that you'd like to upload, feel free to
 
 [Burnout Dominator (PSP)](https://pastebin.com/F49nfm7L)
 
-(Context for the Legends/Revenge betas can be found [here.](https://acutesyntax.github.io/wikis/burnoutmodding/misc/betas))
+(Context for the Legends/Revenge betas can be found [here.](https://acutesyntax.github.io/wikis/burnoutmodding/misc/betaguide.html))
 
 ### **How to Download**
 
