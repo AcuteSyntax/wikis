@@ -10,7 +10,7 @@ Files containing model data on Burnout PS2 and PSP contain both the actual mesh 
 Each "block" of mesh data on the PS2 version begins with the hex sequence `00 00 00 05 03 01 00 01 00 80`.
 
 Files that contain model data:
-* [.BGV and .BTV](https://acutesyntax.github.io/wikis/burnoutmodding/takedown-era/formats/bgv.html)
+* [.BGV and .BTV](https://acutesyntax.github.io/wikis/burnoutmodding/takedown-era/formats/bgvspecsv1.html)
 * .DAT (STATIC and STREAMED)
 
 ### Texture Data
@@ -21,7 +21,7 @@ Burnout PS2's texture headers are 0x250 bytes in length; PSP texture headers are
 Burnout Xbox textures seem to use some form of compression (likely DXT).
 
 Files that contain texture data:
-* [.BGV and .BTV](https://acutesyntax.github.io/wikis/burnoutmodding/takedown-era/formats/bgv.html)
+* [.BGV and .BTV](https://acutesyntax.github.io/wikis/burnoutmodding/takedown-era/formats/bgvspecsv1.html)
 * [.TXD (Texture Dictionaries)](https://acutesyntax.github.io/wikis/burnoutmodding/takedown-era/formats/texdic.html)
 * .DAT (STATIC, STREAMED and ENVIRO)
 
