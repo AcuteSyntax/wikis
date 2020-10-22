@@ -59,9 +59,9 @@ The **Production 10** build of Burnout Dominator's PS2 version was leaked in the
 
 Two very early development builds of Burnout Paradise (then known as **Burnout 5**) were released, however only one is currently publically available.
 
-The November build, also known as the **Franchise Build**, is quite complete despite being quite an early (and buggy) build; all of its files were recovered and thus is fully functional. This build was leaked on February 16th, 2019, and hastily released by burninrubber0 soon after; however its only download link was recently pulled.
+The first of them is dated November 13th, 2006 and is mainly known as the **Franchise Build** or just the **2006 build.** It's quite complete despite being quite an early (and buggy) build; all of its files were recovered and thus is fully functional. This build was leaked on February 16th, 2019, and hastily released by burninrubber0 soon after; however its only download link was recently pulled.
 
-The February build was in a significantly more damaged (and initially unbootable) state, due to the Xbox 360 devkit it was discovered on having been used multiple times over. The build's restoration to a bootable state was completed circa late 2019; this was done by using files from the November build and remnants of an unrecovered build dated January 24th, 2007, as well as recreating missing files from scratch where necessary. 
+The second is dated February 22nd, 2007. It was in a significantly more damaged (and initially unbootable) state than the November build, due to the Xbox 360 devkit it was discovered on having been used multiple times over. The build's restoration to a bootable state was completed circa late 2019; this was done by using files from the November build and remnants of an unrecovered build dated January 24th, 2007, as well as recreating missing files from scratch where necessary. 
 
 It was [publically released](https://www.obscuregamers.com/threads/burnout-5-feb-22-2007.1416/) on December 2nd of that same year.
 
