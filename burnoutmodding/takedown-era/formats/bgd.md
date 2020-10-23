@@ -1,9 +1,10 @@
 ---
 title: BGD (Burnout Game Data)
-sort: 1
 ---
 
-The **Burnout Game Data** (.BGD) filetype contains configuration data and settings for each track, like the traffic density levels, whether or not the track is forward or reverse, the player's spawn coordinates, the start/end location of a lap, signature takedown data, and much more. Burnout 2 uses BGD to store its track data as well (albeit a much older version of the format). Each track has its own BGD file; it can be found in the track's folder alongside the track's other files.
+The **Burnout Game Data** (.BGD) filetype contains configuration data and settings for each track, like the traffic density levels, whether or not the track is forward or reverse, the spawn coordinates of player and traffic cars, the start/end location of a lap, signature takedown data, and much more.
+
+Burnout 2 uses BGD to store its track data as well (albeit a much older version of the format). Each track has its own BGD file; it can be found in the track's folder alongside its other files.
 
 Starting with Burnout 3's demo, this format started using single numbers at the very start of the file to mark the version (like [BGV.](https://acutesyntax.github.io/wikis/burnoutmodding/takedown-era/formats/bgv.html))
 

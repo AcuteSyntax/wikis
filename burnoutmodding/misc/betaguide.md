@@ -57,12 +57,14 @@ The **Production 10** build of Burnout Dominator's PS2 version was leaked in the
 
 ### **Paradise**
 
-Two very early development builds of Burnout Paradise (then known as **Burnout 5**) were released, however only one is currently publically available.
+Two very early development builds of Burnout Paradise (then known as **Burnout 5**) were released in 2019.
 
-The first of them is dated November 13th, 2006 and is mainly known as the **Franchise Build** or just the **2006 build.** It's quite complete despite being quite an early (and buggy) build; all of its files were recovered and thus is fully functional. This build was leaked on February 16th, 2019, and hastily released by burninrubber0 soon after; however its only download link was recently pulled.
+The first of them is dated November 13th, 2006 and is mainly known as the **Franchise Build** or just the **2006 build.** It's quite complete despite being quite an early (and buggy) build; all of its files were recovered and thus is fully functional. This build was leaked on February 16th, 2019, and hastily released by burninrubber0 soon after.
 
 The second is dated February 22nd, 2007. It was in a significantly more damaged (and initially unbootable) state than the November build, due to the Xbox 360 devkit it was discovered on having been used multiple times over. The build's restoration to a bootable state was completed circa late 2019; this was done by using files from the November build and remnants of an unrecovered build dated January 24th, 2007, as well as recreating missing files from scratch where necessary. 
 
 It was [publically released](https://www.obscuregamers.com/threads/burnout-5-feb-22-2007.1416/) on December 2nd of that same year.
 
-[Download files from the January 24 and February 22 builds + fixes for the latter](https://drive.google.com/file/d/1tQFo8VCyHxu0m_4zO7hy7ScMCEX5I_zM/view?usp=sharing)
+[Download the Nov. 2006 build](http://www.mediafire.com/file/1m4tm5b9poqg75n/Burnout_Paradise_%2528Alpha_2006-11-13%2529.7z/file)
+
+[Download files from the Jan. and Feb. 2007 builds + fixes for the latter](https://drive.google.com/file/d/1tQFo8VCyHxu0m_4zO7hy7ScMCEX5I_zM/view?usp=sharing)
