@@ -12,6 +12,8 @@ Although still in its early stages of development, this site aims to be a one-st
 
 [Takedown-Era (Takedown, Legends, Revenge and Dominator)](https://acutesyntax.github.io/wikis/burnoutmodding/takedown-era/formats.html)
 
+[Paradise](https://acutesyntax.github.io/wikis/burnoutmodding/paradise/formats.html)
+
 [Asset Formats (models, textures, sounds, etc.)](https://acutesyntax.github.io/wikis/burnoutmodding/assetdocs.html)
 
 #### **Resources**

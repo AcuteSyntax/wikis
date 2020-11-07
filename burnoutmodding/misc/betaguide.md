@@ -61,10 +61,10 @@ Two very early development builds of Burnout Paradise (then known as **Burnout 5
 
 The first of them is dated November 13th, 2006 and is mainly known as the **Franchise Build** or just the **2006 build.** It's quite complete despite being quite an early (and buggy) build; all of its files were recovered and thus is fully functional. This build was leaked on February 16th, 2019, and hastily released by burninrubber0 soon after.
 
-The second is dated February 22nd, 2007. It was in a significantly more damaged (and initially unbootable) state than the November build, due to the Xbox 360 devkit it was discovered on having been used multiple times over. The build's restoration to a bootable state was completed circa late 2019; this was done by using files from the November build and remnants of an unrecovered build dated January 24th, 2007, as well as recreating missing files from scratch where necessary. 
+The second is dated February 22nd, 2007. It was in a significantly more damaged (and initially unbootable) state than the November build, due to the Xbox 360 devkit it was discovered on having been used multiple times over. The build's restoration to a bootable state took nine months in total and was completed circa late 2019; this was done by using files from the November build and remnants of an unrecovered build dated January 24th, 2007, as well as recreating missing files from scratch where necessary. 
 
 It was [publically released](https://www.obscuregamers.com/threads/burnout-5-feb-22-2007.1416/) on December 2nd of that same year.
 
-[Download the Nov. 2006 build](http://www.mediafire.com/file/1m4tm5b9poqg75n/Burnout_Paradise_%2528Alpha_2006-11-13%2529.7z/file)
+Other miscellaneous builds exist from around the date when the game was finalized; some of them are debug enabled. Download links for them, as well as links for the Nov. 13/Feb. 22 builds, can be found in the list below.
 
-[Download files from the Jan. and Feb. 2007 builds + fixes for the latter](https://drive.google.com/file/d/1tQFo8VCyHxu0m_4zO7hy7ScMCEX5I_zM/view?usp=sharing)
+[Full list of all known Burnout 5/Paradise builds](https://www.obscuregamers.com/threads/burnout-5-paradise-builds.2907/)

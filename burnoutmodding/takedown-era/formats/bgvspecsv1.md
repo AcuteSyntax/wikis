@@ -2,7 +2,7 @@
 title: BGV/BTV (Burnout Game Vehicle/Traffic Vehicle)
 ---
 
-**BGV** (Burnout Game Vehicle, BTV or Burnout Traffic Vehicle for traffic cars) is a file format used by the Takedown Era of Burnout games. This format contains all data related to the game's vehicles, including mesh data, LODs, texture data, pointers to external files (e.g. value database, the car's HWD and LWD files), deformation matrices and physics configuration info. BTV files are identical in every way to BGVs, with the only difference between the two being their file extensions.
+**BGV** (Burnout Game Vehicle, BTV or Burnout Traffic Vehicle for traffic cars) is a file format used by the Takedown Era of Burnout games. This format contains all data related to the game's vehicles, including mesh data, LODs, texture data, pointers to external files (e.g. value database, the car's HWD and LWD files), deformation matrices, collision detection and physics configuration info. BTV files are identical in every way to BGVs, with the only difference between the two being their file extensions.
 
 All currently known offsets for revision 0x17 can be found [**here.**](https://docs.google.com/spreadsheets/d/1t0ZpOjCC9_2RJfcgQ8NLD8oJZfoZmpxxHEnNF5AN2Wo/edit?usp=sharing)
 
