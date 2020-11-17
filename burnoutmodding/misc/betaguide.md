@@ -35,9 +35,9 @@ There are two publically available betas of Burnout Legends - the first is a "no
 
 The second is a debug-enabled build presumably compiled on June 6th of the same year; it's usually referred to as the "GS build" or "Game Sharing Build", due to its executable being discovered hidden in plain sight among the assets of the July 8th demo in the place of where a Game Sharing executable would normally be (`UPLOAD.DAT` in the `DATA\` folder).
 
-[Download July 8th Build](https://drive.google.com/file/d/1Nhn-qLcg7i9KgoDxN4qMuGiFMfYTxv-E/view?usp=sharing)
+[Download July 8th Build](https://drive.google.com/file/d/1p1KaWNs1bHKfVyz5N9m8bNm64-cNbJ6O/view?usp=sharing)
 
-[Download June 6th Debug Build (thanks to JustAnyone for uploading a prebuilt!)](https://mega.nz/file/p1ZUxbxZ#HDqj0yhAZPa1SEt7464hdWS2oB4_CovyuifQWk6Oju8)
+[Download June 6th Build](https://drive.google.com/file/d/1OdRXWw4Wj9bIwB293gKXgLCXS4ye2oi9/view?usp=sharing)
 
 ### **Revenge**
 
